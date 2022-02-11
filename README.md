@@ -1,2 +1,2 @@
-# BinarySearch
-Basic binary search 
+# Do not readme
+Do not waste your time here!!
