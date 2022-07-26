@@ -7,7 +7,7 @@ int main()
     p = &x;
 
     int **q = &p;
-    ////// The below 43 are same //////
+    ////// The below 3 are same //////
     cout << *q << endl;
     cout << p << endl;
     cout << &x << endl;
